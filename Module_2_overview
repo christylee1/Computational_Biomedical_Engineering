@@ -1,0 +1,2 @@
+This project seeks to provide an image analysis pipeline that predicts and quantifies the extent of pulmonary fibrosis across different biopsy depths from the top of the lung. 
+The pipeline will integrate line regression(interpolation) and scatter plot visualization to map fibrosis severity as a function of biopsy depth, supporting more precise and depth-resolved diagnostic evaluation of lung tissue.
