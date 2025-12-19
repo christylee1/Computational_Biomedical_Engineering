@@ -1,0 +1,3 @@
+This project seeks to understand how atherosclerosis relates to beta-amyloid and tau levels in the brain. 
+Beta-amyloid and tau level data was extracted from a large dataset, normalized, and various graphing techniques were used to visualize the relationship between the two proteins in the brain. 
+A T-Test and ANOVA test were conducted on the data to determine the significance between the two protein levels in Alzheimer's Disease.
